@@ -1,3 +1,4 @@
 
 hello, first version, I'm training to use vim
 I discover the button inser, the command echap, the command :w, :wq, :q
+alien   alien   alien
